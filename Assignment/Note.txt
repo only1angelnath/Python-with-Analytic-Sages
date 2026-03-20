@@ -1,0 +1,1 @@
+This folder contains the assignments done in the process of completing the blockchain data analytics using python of Analytics Sages
